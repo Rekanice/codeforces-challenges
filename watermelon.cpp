@@ -11,9 +11,9 @@ int main()
 {
     cin>>a;
     if(a%2==0 && a!=2){
-        cout << "YES";
+        cout << "YES" << endl;
     }else{
-        cout << "NO";
+        cout << "NO" << endl;
     }
     return 0;
 }
